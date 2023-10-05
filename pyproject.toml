@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pyrocatto-sg"
-version = "0.2.0"
+version = "0.2.0.post1"
 description = "pyrocatto session generator"
 authors = ["devops117 <devops117.main@protonmail.com>"]
 license = "MIT"
