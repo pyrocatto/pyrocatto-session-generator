@@ -1,4 +1,4 @@
-## pyrocatto session generator
+# pyrocatto session generator
 <br />
 
 # Installation
@@ -13,4 +13,3 @@
 - `python -m pyrocatto_sg create-user-session --session-dir <session_dir>`
 ### For Bot account:
 - `python -m pyrocatto_sg create-bot-session --session-dir <session_dir>`
-<br />
