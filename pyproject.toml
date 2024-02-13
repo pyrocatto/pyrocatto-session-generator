@@ -1,11 +1,11 @@
 [tool.poetry]
-name = "pyrocatto-sg"
-version = "0.2.0.post1"
+name = "pyrocatto-session-generator"
+version = "0.2.1"
 description = "pyrocatto session generator"
 authors = ["devops117 <devops117.main@protonmail.com>"]
 license = "MIT"
 readme = "README.md"
-packages = [{include = "pyrocatto_sg"}]
+packages = [{include = "pyrocatto_session_generator"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
